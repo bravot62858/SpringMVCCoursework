@@ -5,6 +5,7 @@
 * [課程作業3](#課程作業3)
 * [課程作業4](#課程作業4)
 * [課程作業5](#課程作業5)
+* [課程作業6](#課程作業6)
 ---
 
 # SpringCoreCoursework
@@ -44,13 +45,21 @@
 
   程式碼: [TestBook](https://github.com/bravot62858/SpringCoreCoursework/blob/main/src/test/java/com/study/SpringCoreCoursework/coursework4/TestBook.java)
 
-<hr>
+---
 
 # SpringMVCCoursework
 
 數據庫連結: [SpringMVCCoursework_Repository](https://github.com/bravot62858/SpringMVCCoursework)
+[目錄](src/main/webapp/index.jsp)
   
 ### 課程作業5
 - 統計每一顆號碼出現的次數(按照出現次數由大到小排序)  
   
   程式碼: [show_lotto](src/main/webapp/WEB-INF/views/coursework5/show_lotto.jsp)
+  
+### 課程作業6
+- 時段改成spform:checkboxes
+- 繳費改成spform:radiobuttons
+  
+  程式碼: [exam_form.jspf](src/main/webapp/WEB-INF/views/coursework6/exam_form.jspf)
+  
