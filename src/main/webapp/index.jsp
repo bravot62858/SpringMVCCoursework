@@ -15,7 +15,10 @@
 			<h1>
 				<li >
 				<a href="./mvc/coursework5/lotto/">./mvc/coursework5/lotto/</a>
-				</li>	
+				</li>
+				<li >
+				<a href="./mvc/coursework6/exam/">./mvc/coursework6/exam/</a>
+				</li>		
 			</h1>
 		</ol>
 	
